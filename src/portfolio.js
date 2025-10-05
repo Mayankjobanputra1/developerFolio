@@ -148,7 +148,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://ai-online-learning-rabo.vercel.app/"
+          url: "https://ai-trip-planer-51qu.vercel.app/"
         }
         //  you can add extra buttons here.
       ]
