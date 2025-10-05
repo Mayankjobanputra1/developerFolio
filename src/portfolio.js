@@ -85,7 +85,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -101,7 +100,6 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Science",
       duration: "july 2022 - june 2025",
       desc: "Took courses about Software Engineering, Web Security, Operating Systems, ...",
-     
     }
   ]
 };
@@ -143,6 +141,42 @@ const bigProjects = {
   title: "Projects",
   subtitle: "SOME STARTUPS A PROJECT AND THAT I COMPLETE A PROJECT",
   projects: [
+    {
+      image: require("./assets/images/trip.jpg"),
+      projectName: "Ai Trip Planner",
+      projectDesc: "Planning the perfect trip can be time-consuming and stressful — that’s why I built this platform to make travel planning smarter and effortless.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://ai-online-learning-rabo.vercel.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/logo1.jpg"),
+      projectName: "Ai Online Learning",
+      projectDesc: "I built this platform to help learners explore new skills with adaptive learning paths and real-time progress insights, powered by AI.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://ai-online-learning-rabo.vercel.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/expenss.png"),
+      projectName: "Expenss Tracker",
+      projectDesc: "We all know how challenging it can be to stay on top of expenses, savings, and budgets. That’s why I built this app to give users clarity and control over their financial journey.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://expense-tracker-nhzf.vercel.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    }, 
     {
       image: require("./assets/images/logo.png"),
       projectName: "Connectify",
