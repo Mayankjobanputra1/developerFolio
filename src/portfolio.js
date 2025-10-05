@@ -180,7 +180,7 @@ const bigProjects = {
     {
       image: require("./assets/images/logo.png"),
       projectName: "Connectify",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit ",
+      projectDesc: "In today’s digital world, making a great first impression matters. That’s why I built this platform — to help professionals, creators, and businesses design and share smart, customizable digital business cards in seconds.",
       footerLink: [
         {
           name: "Visit Website",
@@ -192,7 +192,7 @@ const bigProjects = {
     {
       image: require("./assets/images/logo(1).png"),
       projectName: "YOGA",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Wellness is more than a routine — it’s a lifestyle. That’s why I built this platform to help users practice yoga, stay mindful, and track their wellness journey through intelligent, personalized guidance.",
       footerLink: [
         {
           name: "Visit Website",
